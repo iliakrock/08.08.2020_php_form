@@ -9,12 +9,12 @@ $arr = [
     [
         'title' => 'RECOMMENDED',
         'price' => '$29/month',
-        'capacity' => '1 Workspaces'
+        'capacity' => '5 Workspaces'
     ],
     [
         'title' => 'PREMIUM',
         'price' => '$99/month',
-        'capacity' => '1 Workspaces'
+        'capacity' => '10 Workspaces'
     ],
 ];
 
