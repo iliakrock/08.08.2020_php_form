@@ -27,7 +27,7 @@ $html .= '</thead>';
 $html .= '<tbody>';
 
 foreach ($arr as $user) {
-    $html .= "<tr><td{$user['title']}</td><td{$user['price']}</td><td{$user['capacity']}</td></tr>";
+    $html .= "<tr><td>{$user['title']}</td><td>{$user['price']}</td><td>{$user['capacity']}</td></tr>";
 }
 
 $html .= '</tbody>';
